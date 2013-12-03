@@ -38,4 +38,5 @@ _ReSharper*/
 
 backup.bat
 nuget-pack.bat
+nuget-push.bat
 git-commit.bat
